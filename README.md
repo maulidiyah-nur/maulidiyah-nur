@@ -1,59 +1,73 @@
-### Hi there 👋
+## Hi There 👋
+    
 
-I´m Maulidiyah, Frontend Developer in Indonesia
+I'm Maulidiyah, a passionate Front End Developer from Indonesia.
 
-## 🚀💻 Technologies & Tools
+🔭 I’m currently working on GitHub Profile Generator
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+🌱 I’m currently learning Web Accessibility
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+⚡ Fun fact I've never been in space cause I'm using tab
 
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+        
+## LANGUAGES and TOOLS
 
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+#### PROGRAMMING LANGUAGES
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+#### FRONTEND DEVELOPMENT
+![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
+![svelte](https://img.shields.io/badge/svelte-000000?style=for-the-badge&logo=svelte&logoColor=white)
+![angularjs](https://img.shields.io/badge/angularjs-000000?style=for-the-badge&logo=angularjs&logoColor=white)
+![angular](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![gulp](https://img.shields.io/badge/gulp-000000?style=for-the-badge&logo=gulp&logoColor=white)
+![sass](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white)
+![redux](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
+![babel](https://img.shields.io/badge/babel-000000?style=for-the-badge&logo=babel&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwind&logoColor=white)
+![materialize](https://img.shields.io/badge/materialize-000000?style=for-the-badge&logo=materialize&logoColor=white)
+#### BACKEND DEVELOPMENT
+![nodejs](https://img.shields.io/badge/nodejs-000000?style=for-the-badge&logo=nodejs&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![graphql](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
+#### MOBILE APP DEVELOPMENT
+![reactnative](https://img.shields.io/badge/reactnative-000000?style=for-the-badge&logo=reactnative&logoColor=white)
+#### DATABASE
+![mongodb](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![mariadb](https://img.shields.io/badge/mariadb-000000?style=for-the-badge&logo=mariadb&logoColor=white)
+![mssql](https://img.shields.io/badge/mssql-000000?style=for-the-badge&logo=mssql&logoColor=white)
+#### DATA VISUALIZATION
+![d3js](https://img.shields.io/badge/d3js-000000?style=for-the-badge&logo=d3js&logoColor=white)
+![chartjs](https://img.shields.io/badge/chartjs-000000?style=for-the-badge&logo=chartjs&logoColor=white)
+#### DEVOPS
+![aws](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=aws&logoColor=white)
+![docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)
+![gcp](https://img.shields.io/badge/gcp-000000?style=for-the-badge&logo=gcp&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![circleci](https://img.shields.io/badge/circleci-000000?style=for-the-badge&logo=circleci&logoColor=white)
+#### BACKEND AS A SERVICE(BAAS)
+![firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+#### TESTING
+![cypress](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
+![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=white)
+#### SOFTWARE
+![xd](https://img.shields.io/badge/xd-000000?style=for-the-badge&logo=xd&logoColor=white)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![sketch](https://img.shields.io/badge/sketch-000000?style=for-the-badge&logo=sketch&logoColor=white)
+![invision](https://img.shields.io/badge/invision-000000?style=for-the-badge&logo=invision&logoColor=white)
+#### STATIC SITE GENERATORS
+![gatsby](https://img.shields.io/badge/gatsby-000000?style=for-the-badge&logo=gatsby&logoColor=white)
+![nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+## SOCIAL NETWORK
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//maulidiyah-nur)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com//maulidiyah)
